@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TailoTelligent",
+  "description": "AI-powered augmented reality tailoring assistant that measures your body dimensions using camera inputs and computer vision analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
